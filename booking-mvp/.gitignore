@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Entorno
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
