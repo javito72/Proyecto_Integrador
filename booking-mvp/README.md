@@ -50,7 +50,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu computadora:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/booking-mvp.git
+git clone https://github.com/javito72/Proyecto_Integrador.git
 cd booking-mvp
 ```
 
